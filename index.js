@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["<:Smokeylogo:1168411664962564096> For Smokey"];
+const statusMessages = ["For Smokey"];
 
 
 let currentIndex = 0;
